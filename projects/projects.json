@@ -1,0 +1,62 @@
+[
+{
+     "name": "Share A Meal",
+    "desc": "Share a Meal connects food donors with people in need to reduce food waste.It makes sharing food quick and simple.",
+    "image": "food",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/chandanbhat63/Share-A-Meal-.git"
+  }
+},
+  {
+    "name": "Resume AI",
+    "desc": "Resume AI helps users improve their resumes by analyzing skills and matching them with job descriptions using AI",
+    "image": "resume1",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/chandanbhat63/Resume_AI_frontend.git"
+    }
+  },
+  {
+    "name": "Simple-Calculator",
+    "desc": "It performs simple arithmetic operations and has a clean, responsive user interface.",
+    "image": "CAL",
+    "category": "web",
+    "links": {
+      "view": "https://simplest-cal.netlify.app/",
+      "code": "https://github.com/chandanbhat63/CodeAlpha_calculator.git"
+    }
+  },
+   {
+    "name": "Service Sphere",
+    "desc": "A Centralized Community Asset Management Web App",
+    "image": "service",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/chandanbhat63/Service-Sphere.git"
+    }
+  },
+  {
+    "name": " GitHub User Finder",
+    "desc": "search for GitHub users and view their profile details in real-time",
+    "image": "git1",
+    "category": "web",
+    "links": {
+      "view": "https://githubuserfinder1.netlify.app/",
+      "code": "https://github.com/chandanbhat63/GithubUserFinder-.git"
+    }
+  },
+  {
+    "name": " Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "SCREENSHOT",
+    "category": "web",
+    "links": {
+      "view": "https://chandan-bhat-portfolio.netlify.app/",
+      "code": "https://github.com/chandanbhat63/chandan-portfolio.git"
+    }
+  }
+]
