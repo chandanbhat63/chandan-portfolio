@@ -9,7 +9,7 @@ A personal portfolio website built to showcase my projects, skills, achievements
 
 ## 📸 Screenshots
 
-![Desktop View](./assets/images/projects/portfolio2.png)
+![Desktop View](./assets/images/projects/SCREENSHOT.png)
 
 
 ## 🛠️ Tech Stack
@@ -57,9 +57,10 @@ A personal portfolio website built to showcase my projects, skills, achievements
 
 ## 🧑‍💻 Author
 
-**Ravi Shetty**  
-📧 [ravishetty05082@example.com]  
-🌐 [LinkedIn](https://www.linkedin.com/in/ravi-m-shetty/) • [GitHub](https://github.com/Ravishetty07)
+**Chandan Bhat**  
+📧 [chandanbhat2025@gmail.com]  
+🌐 [LinkedIn](https://www.linkedin.com/in/chandan-bhat-1885117339/) • [GitHub](https://github.com/chandanbhat63)
+
 
 
 
