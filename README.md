@@ -5,7 +5,7 @@ A personal portfolio website built to showcase my projects, skills, achievements
 
 ## 🚀 Live Demo
 
-👉 [Visit My Portfolio](https://ravishetty-portfolio.netlify.app/)
+👉 [Visit My Portfolio](https://chandan-bhat-portfolio.netlify.app/)
 
 ## 📸 Screenshots
 
@@ -60,6 +60,7 @@ A personal portfolio website built to showcase my projects, skills, achievements
 **Chandan Bhat**  
 📧 [chandanbhat2025@gmail.com]  
 🌐 [LinkedIn](https://www.linkedin.com/in/chandan-bhat-1885117339/) • [GitHub](https://github.com/chandanbhat63)
+
 
 
 
